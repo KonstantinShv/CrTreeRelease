@@ -1,0 +1,101 @@
+main.pbi: \
+  E:\IARlab6\AHardware\Registers\STM32F411\FieldValues\tim2fieldvalues.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\tim2registers.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\FieldValues\tim5fieldvalues.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\tim5registers.hpp \
+  E:\IARlab6\AHardware\Registers\CortexM4\FieldValues\nvicfieldvalues.hpp \
+  E:\IARlab6\AHardware\Registers\CortexM4\nvicregisters.hpp \
+  E:\IARlab6\AHardware\Timer\timer.hpp \
+  E:\IARlab6\AHardware\Garlands\pinscfg.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\tuple \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\iterator \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\array \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\ycheck.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\assert.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cassert \
+  E:\IARlab6\AHardware\Garlands\garlands.hpp \
+  E:\IARlab6\AHardware\Button\button.hpp \
+  E:\IARlab6\AHardware\Led\led.hpp \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\errno.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cerrno \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\system_error \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\time32.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\time.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\ctime \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\ctype.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cctype \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xlocinfo \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\typeinfo \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xstring \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\stdexcept \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\wctype.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cwctype \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\xlocale_lconv.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\xctype.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\locale.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\clocale \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\climits \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xlocale \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xiosbase \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\streambuf \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xlocnum \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\ios \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\ostream \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\istream \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\iostream \
+  E:\IARlab6\AHardware\Registers\STM32F411\FieldValues\rccfieldvalues.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\rccregisters.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\FieldValues\gpioafieldvalues.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\gpioaregisters.hpp \
+  E:\IARlab6\AHardware\Registers\register.hpp \
+  E:\IARlab6\AHardware\Registers\registertype.hpp \
+  E:\IARlab6\AHardware\Registers\registerbase.hpp \
+  E:\IARlab6\AHardware\Registers\registerfield.hpp \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\xatomic.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Product_string.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\string.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstring \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\stdio.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstdio \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\iosfwd \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\utility \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xutility \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xxexception \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\exception \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\new \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xmemory0 \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xmemory \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\algorithm \
+  E:\IARlab6\Common\susudefs.hpp \
+  E:\IARlab6\AHardware\Registers\accessmode.hpp \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\type_traits \
+  E:\IARlab6\AHardware\Registers\fieldvaluebase.hpp \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\initializer_list \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xstddef \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\wchar.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cwchar \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Product_stdlib.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\stdlib.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstdlib \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\xtr1common \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\xtgmath.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_float_setup.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\math.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cmath \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\limits.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\float.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cfloat \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\limits \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\ysizet.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\stddef.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstddef \
+  E:\IARlab6\AHardware\Registers\fieldvalue.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\FieldValues\gpiocfieldvalues.hpp \
+  E:\IARlab6\AHardware\Registers\STM32F411\gpiocregisters.hpp \
+  E:\IARlab6\AHardware\Pin\pin.hpp \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Product.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\yvals.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\c\stdint.h \
+  D:\Папка\Универ\7\ семак\IAR\arm\inc\cpp\cstdint \
+  E:\IARlab6\AHardware\Port\port.hpp E:\IARlab6\main.cpp
